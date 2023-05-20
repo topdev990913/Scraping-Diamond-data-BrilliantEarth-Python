@@ -1,0 +1,23 @@
+,Shape,Price,Carat,CutGrade,Color,Clarity,report
+0,Marquise,"$1,650",1.00,Very Good,F,VS1,GIA
+1,Marquise,"$1,520",1.02,Very Good,G,VS1,GIA
+2,Marquise,"$3,410",1.50,Very Good,F,VVS2,GIA
+3,Marquise,$300,0.33,Very Good,H,VS2,GIA
+4,Marquise,$490,0.44,Very Good,D,VVS1,GIA
+5,Marquise,"$3,530",2.01,Very Good,H,VS1,GIA
+6,Marquise,$390,0.37,Very Good,D,VS1,GIA
+7,Marquise,$620,0.62,Very Good,G,VVS2,GIA
+8,Marquise,"$2,600",1.54,Very Good,D,SI2,GIA
+9,Marquise,"$2,730",1.50,Very Good,E,SI2,GIA
+10,Marquise,"$2,990",1.50,Very Good,F,VS1,GIA
+11,Marquise,"$4,340",2.01,Very Good,G,VS1,GIA
+12,Marquise,"$4,440",1.46,Very Good,D,VVS1,GIA
+13,Marquise,"$4,850",1.52,Very Good,D,VVS1,GIA
+14,Marquise,"$4,970",2.15,Very Good,G,VVS2,GIA
+15,Marquise,"$5,180",2.24,Very Good,G,VVS2,GIA
+16,Marquise,"$5,310",2.51,Very Good,G,SI1,GIA
+17,Marquise,"$5,760",2.38,Very Good,F,VS1,GIA
+18,Marquise,"$12,990",2.54,Very Good,D,VVS1,GIA
+19,Marquise,"$15,390",3.51,Very Good,E,VVS2,GIA
+20,Marquise,"$15,920",3.07,Very Good,D,VVS1,GIA
+21,Marquise,"$17,830",4.16,Very Good,F,VS1,GIA
